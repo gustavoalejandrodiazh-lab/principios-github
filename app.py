@@ -1,3 +1,3 @@
 nombre = input("¿Cómo te llamas? ")
 print(f"¡Hola, {nombre}!")
-print("Hola mundo")
+print("Hola clase de desarrollo web")
